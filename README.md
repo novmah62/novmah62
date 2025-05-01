@@ -54,6 +54,6 @@
 ## 📫 Contact & Socials
 <p align="center">
   <a href="mailto:manh.novmah@gmail.com">✉️ Email</a> •
-  <a href="https://linkedin.com/in/drewsec">🔗 LinkedIn</a> •
+  <a href="https://linkedin.com/in/drewsec">🔗 LinkedIn</a>
 </p>
 
