@@ -1,6 +1,6 @@
 <!-- ===== Header & Badges ===== -->
 <h1 align="center">Hi 👋, I’m Mạnh</h1>
-<h3 align="center">Java Backend Developer & DevSecOps Practitioner</h3>
+<h3 align="center">Java Backend Developer & DevSecOps Enthusiast</h3>
 
 ---
 
